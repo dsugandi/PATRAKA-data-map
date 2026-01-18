@@ -27,9 +27,9 @@ var lyr_PATRAKA_1 = new ol.layer.Vector({
                 declutter: false,
                 source:cluster_PATRAKA_1, 
                 style: style_PATRAKA_1,
-                popuplayertitle: 'Kabar',
+                popuplayertitle: 'PATRAKA',
                 interactive: true,
-                title: '<img src="styles/legend/PATRAKA_1.png" /> Kabar'
+                title: '<img src="styles/legend/PATRAKA_1.png" /> PATRAKA'
             });
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_PATRAKA_1.setVisible(true);
